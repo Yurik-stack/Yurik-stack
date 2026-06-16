@@ -2,7 +2,7 @@
 
 **'Estudante de ADS | Desenvolvedor Full Stack em Formação'**
 
-Me chamo Yuri Correia Ribeiro, tenho 18 anos e sou natural do estado de São Paulo. Concluí o ensino médio na escola estadual E.E Dep. Geraldino dos Santos, com o curso técnico em informática pelo Alura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia.
+Me chamo Yuri Correia Ribeiro, tenho 19 anos e sou natural do estado de São Paulo. Concluí o ensino médio na escola estadual E.E Dep. Geraldino dos Santos, com o curso técnico em informática pelo Alura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia.
 
 <p align="left">
     <a href="https://github.com/Yurik-stack?tab=repositories&sort=stargazers">
