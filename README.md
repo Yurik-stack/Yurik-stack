@@ -1,16 +1,31 @@
+<div align="center">
+    
 # 👩🏻‍💻 Yuri Stack
 
-# 👋 Olá! Eu sou o Yuri Correia Ribeiro
+ 👋 Olá! Eu sou o Yuri Correia Ribeiro
+ 
+### 💻 Desenvolvedor Full Stack em formação
 
-### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNICID)
 
-💻 Desenvolvedor Full Stack em formação
-
-🚀 Atualmente desenvolvendo projetos com foco em **Java, Spring Boot, SQL e Arquitetura de Microsserviços**.
+🚀 Construindo aplicações com foco em Java, Spring Boot, SQL e Arquitetura de Microsserviços.
 
 📚 Sempre buscando aprender novas tecnologias e desenvolver soluções que simulem desafios reais do mercado.
+</div>
 
-## 🌐 Conecte-se comigo
+---
+
+## 👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas, apaixonado por tecnologia e desenvolvimento de software.
+
+Atualmente concentro meus estudos na construção de aplicações back-end utilizando Java e Spring Boot, sempre buscando aplicar boas práticas de programação, arquitetura de software e bancos de dados relacionais em projetos que simulam desafios do mercado.
+
+Meu objetivo é evoluir continuamente como desenvolvedor e contribuir com soluções escaláveis, modernas e de alta qualidade.
+
+---
+
+## 🌎 Conecte-se comigo
 
 <p align="left">
     <a href="https://github.com/Yurik-stack?tab=repositories&sort=stargazers">
@@ -30,9 +45,67 @@
     <a href="https://www.linkedin.com/in/yuri-correia-ribeiro-a7b18835b/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
+    <a href="mailto:Yuri.Stackdev@Gmail.com">
+        <img src=https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    
 </p>
 
-### 🤖 Linguagens e Tecnologias
+---
+
+# 💻 Linguagens e Tecnologias
+
+### Backend
+
+<p>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
+
+</p>
+
+### Frontend
+
+<p>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+</p>
+
+### Banco de Dados
+
+<p>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"/>
+
+</p>
+
+### Ferramentas
+
+<p>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
+
+<img height="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"/>
+
+</p>
+
+---
 
 <img 
     align="left" 
