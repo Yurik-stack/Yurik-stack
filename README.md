@@ -1,8 +1,14 @@
 # 👩🏻‍💻 Yuri Stack
 
-**'Estudante de ADS | Desenvolvedor Full Stack em Formação'**
+# 👋 Olá! Eu sou o Yuri Correia Ribeiro
 
-Me chamo Yuri Correia Ribeiro, tenho 19 anos e sou natural do estado de São Paulo. Concluí o ensino médio na escola estadual E.E Dep. Geraldino dos Santos, com o curso técnico em informática pelo Alura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICID. Sou apaixonado por tecnologia.
+### 🎓 Estudante de Análise e Desenvolvimento de Sistemas
+
+💻 Desenvolvedor Full Stack em formação
+
+🚀 Atualmente desenvolvendo projetos com foco em **Java, Spring Boot, SQL e Arquitetura de Microsserviços**.
+
+📚 Sempre buscando aprender novas tecnologias e desenvolver soluções que simulem desafios reais do mercado.
 
 <p align="left">
     <a href="https://github.com/Yurik-stack?tab=repositories&sort=stargazers">
