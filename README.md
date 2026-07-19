@@ -78,19 +78,20 @@ Me chamo Yuri Correia Ribeiro, tenho 19 anos e sou natural do estado de São Pau
 ### 📊 Estatísticas
 
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="github-readme-stats-vbzy.vercel.app/api?username=Yurik-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
+    
+  <img
+    align="left"
+    alt="GitHub Stats"
+    height="200"
+    style="padding-right: 10px;"
+    src="https://github-readme-stats-vbzy.vercel.app/api?username=Yurik-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
+/>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yurik-stack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
+<img
+    align="left"
+    alt="Linguagens Mais Usadas"
+    height="200"
+    src="https://github-readme-stats-vbzy.vercel.app/api/top-langs/?username=Yurik-stack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
+/>
 
 </p>
