@@ -107,75 +107,93 @@ Meu objetivo é evoluir continuamente como desenvolvedor e contribuir com soluç
 
 ---
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
-
 <br/>
 <br/>
 
-### 📊 Estatísticas
+# 📊 Estatísticas
 
-<p>
-    
-  <img
-    align="left"
-    alt="GitHub Stats"
-    height="200"
-    style="padding-right: 10px;"
-    src="https://github-readme-stats-vbzy.vercel.app/api?username=Yurik-stack&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-/>
+<p align="center">
 
 <img
-    align="left"
-    alt="Linguagens Mais Usadas"
-    height="200"
-    src="https://github-readme-stats-vbzy.vercel.app/api/top-langs/?username=Yurik-stack&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6"
-/>
+height="180"
+src="https://github-readme-stats-vbzy.vercel.app/api?username=Yurik-stack&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+
+<img
+height="180"
+src="https://github-readme-stats-vbzy.vercel.app/api/top-langs/?username=Yurik-stack&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
+
+---
+
+# 🔥 Sequência de Contribuições
+
+<p align="center">
+
+<img
+src="https://streak-stats.demolab.com?user=Yurik-stack&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🏆 Conquistas
+
+<p align="center">
+
+<img
+src="https://github-profile-trophy.vercel.app/?username=Yurik-stack&theme=tokyonight&row=1&column=6"/>
+
+</p>
+
+---
+
+# 📈 Gráfico de Atividade
+
+<p align="center">
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Yurik-stack&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🚀 Projetos em Destaque
+
+🔹 **Post Trade Platform**
+
+Arquitetura de microsserviços desenvolvida em Java simulando uma plataforma de pós-negociação do mercado financeiro.
+
+---
+
+🔹 **Financial Client Management**
+
+Sistema para gerenciamento de clientes e operações financeiras utilizando Java, Spring Boot e banco de dados relacional.
+
+---
+
+🔹 **Sistema de Chamada Online**
+
+Projeto voltado à digitalização do processo de chamada acadêmica utilizando tecnologias web.
+
+---
+
+# 📚 Atualmente estudando
+
+- Java 21
+- Spring Boot
+- Microsserviços
+- Docker
+- SQL
+- Oracle Database
+- APIs REST
+- Arquitetura de Software
+
+---
+
+<div align="center">
+
+### Obrigado pela visita! 🚀
+
+</div>
