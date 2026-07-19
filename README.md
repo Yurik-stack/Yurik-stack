@@ -10,6 +10,8 @@
 
 📚 Sempre buscando aprender novas tecnologias e desenvolver soluções que simulem desafios reais do mercado.
 
+## 🌐 Conecte-se comigo
+
 <p align="left">
     <a href="https://github.com/Yurik-stack?tab=repositories&sort=stargazers">
         <img 
@@ -24,6 +26,9 @@
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/Yurik-stack?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+    </a>
+    <a href="https://www.linkedin.com/in/yuri-correia-ribeiro-a7b18835b/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
