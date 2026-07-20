@@ -135,12 +135,6 @@ src="https://streak-stats.demolab.com?user=Yurik-stack&theme=tokyonight"/>
 
 </p>
 
-## 🏆 Conquistas
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yurik-stack&theme=tokyonight&row=1&column=6" />
-</p>
-
 ---
 
 # 🏆 Conquistas
@@ -165,37 +159,38 @@ src="https://github-readme-activity-graph.vercel.app/graph?username=Yurik-stack&
 
 ---
 
-# 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque
 
-🔹 **Post Trade Platform**
+### 📌 Post Trade Platform
+> Plataforma de pós-negociação financeira desenvolvida em Java com arquitetura de microsserviços inspirada em sistemas utilizados no mercado financeiro.
 
-Arquitetura de microsserviços desenvolvida em Java simulando uma plataforma de pós-negociação do mercado financeiro.
-
----
-
-🔹 **Financial Client Management**
-
-Sistema para gerenciamento de clientes e operações financeiras utilizando Java, Spring Boot e banco de dados relacional.
-
----
-
-🔹 **Sistema de Chamada Online**
-
-Projeto voltado à digitalização do processo de chamada acadêmica utilizando tecnologias web.
-
----
-
-# 📚 Atualmente estudando
-
+**Tecnologias:**
 - Java 21
 - Spring Boot
-- Microsserviços
-- Docker
-- SQL
 - Oracle Database
-- APIs REST
-- Arquitetura de Software
+- Docker
+- Microsserviços
 
+---
+
+### 📌 Financial Client Management
+> Sistema para gerenciamento de clientes e operações financeiras utilizando Java e banco de dados relacional.
+
+**Tecnologias:**
+- Java
+- Spring Boot
+- PostgreSQL
+- JPA
+
+---
+
+### 📌 Sistema de Chamada Online
+> Aplicação para gerenciamento digital de presença acadêmica, com foco em praticidade e organização.
+
+**Tecnologias:**
+- HTML
+- CSS
+- JavaScript
 ---
 
 # 🎯 Objetivos de 2026
