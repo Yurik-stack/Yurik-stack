@@ -135,6 +135,12 @@ src="https://streak-stats.demolab.com?user=Yurik-stack&theme=tokyonight"/>
 
 </p>
 
+## 🏆 Conquistas
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Yurik-stack&theme=tokyonight&row=1&column=6" />
+</p>
+
 ---
 
 # 🏆 Conquistas
