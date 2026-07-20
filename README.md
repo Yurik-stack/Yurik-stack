@@ -192,8 +192,16 @@ Projeto voltado à digitalização do processo de chamada acadêmica utilizando 
 
 ---
 
-<div align="center">
+# 🎯 Objetivos de 2026
 
+- [ ] Desenvolver uma plataforma completa de microsserviços em Java
+- [ ] Aprender Spring Boot avançado
+- [ ] Estudar Docker e Kubernetes
+- [ ] Construir um portfólio com projetos reais
+- [ ] Conquistar uma oportunidade como Desenvolvedor Back-end Java
+
+<div align="center">
+    
 ### Obrigado pela visita! 🚀
 
 </div>
