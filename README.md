@@ -137,6 +137,16 @@ src="https://streak-stats.demolab.com?user=Yurik-stack&theme=tokyonight"/>
 
 ---
 
+## 🐍 Contribuições
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/Yurik-stack/Yurik-stack/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
 # 🏆 Conquistas
 
 <p align="center">
